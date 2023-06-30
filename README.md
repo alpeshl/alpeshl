@@ -1,10 +1,10 @@
 ## Hi there, I'm ALPESH 👋
 
-I'm a passionate full-stack software developer with [X] years of experience. I enjoy building scalable and efficient web applications, and I'm always eager to learn and explore new technologies.
+I'm a passionate full-stack software developer with 14+ years of experience. I enjoy building scalable and efficient web applications, and I'm always eager to learn and explore new technologies.
 
 #### 💻 Technologies and Tools
 
-- Front-end: HTML5, CSS3, JavaScript, React, TypeScript
+- Front-end: HTML5, CSS3, JS, TypeScript, React, React Native
 - Back-end: Node.js, Express.js, MongoDB
 - Version Control: Git, GitHub
 - Testing: Jest, Mocha, Chai
@@ -17,6 +17,7 @@ I believe in continuous learning and staying updated with the latest industry tr
 
 - React-Native
 - Microservices Architecture
+- Mono repos for enterprise app
 
 #### 👨‍💻 Projects
 
